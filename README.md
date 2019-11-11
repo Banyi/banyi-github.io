@@ -1,2 +1,2 @@
-# banyi-github.io
+# banyi.github.io
 blog pages
